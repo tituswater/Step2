@@ -1,0 +1,48 @@
+*{
+	padding: 0px;
+	margin:0px auto;
+	max-width: 100%;
+	font-size: 100%;
+}
+
+.head{
+	margin-top: 30px;
+	padding: 20px;
+	max-width: 90%;
+	background: #5ED490;
+	color: #002610;
+
+}
+
+.head h1{
+	font-size: 40pt;
+	text-align: center;
+}
+.compliment{
+	padding: 20px;
+	background: #0B4A26;
+	max-width: 90%;
+	font-size: 20pt;
+	color: #FDFDF8;
+	text-align: center;
+}
+.content{
+	margin-top:  5px;
+	padding: 20px;
+	background:#6FCF97;
+	max-width: 90%;
+	
+	color: #FDFDF8;
+	text-align: center;
+}
+.content .header{
+	color: #4D0909;
+	font-size: 30pt;
+	text-align: center;
+}
+
+.content .t , .content .d{
+	color: #4D0909;
+	font-size: 30pt;
+	text-align: center;
+}
